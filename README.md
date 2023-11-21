@@ -1,5 +1,5 @@
 **Date: 11-21-2023**  
-**Author: Barry Radler***
+**Author: Barry Radler**
 
 # The WLS Portal
 
